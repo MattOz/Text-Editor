@@ -1,4 +1,4 @@
-# React-Portfolio
+# Text-Editor
 https://github.com/MattOz/React-Portfolio
 
 ## Description
