@@ -1,5 +1,5 @@
 # Text-Editor
-https://github.com/MattOz/React-Portfolio
+https://github.com/MattOz/Text-Editor
 
 ## Description
 A text editor progessive web app that uses data persistence techniques. The app functions both online and offline. It uses a package called idb to interact with the IndexedDB API which features a number of methods that are useful for storing and retrieving data.
